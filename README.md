@@ -1,4 +1,4 @@
-# 50-ai-prompts-pour-devchallenge
+# 50 AI Prompts pour Devchallenge
 
 Boostez vos compétences en développement avec ces 50 prompts AI conçus pour Devchallenge. Ces prompts vous aideront à résoudre des problèmes de codage, à améliorer votre compréhension de la programmat
 
@@ -6,7 +6,7 @@ Boostez vos compétences en développement avec ces 50 prompts AI conçus pour D
 
 | Property | Value |
 |---|---|
-| Records | 3 |
+| Records | 40 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,7 +14,7 @@ Boostez vos compétences en développement avec ces 50 prompts AI conçus pour D
 ## Sample
 
 ```json
-Keys: title, description, price
+"Concevez une fonction pour trier une liste de nombres dans l'ordre croissant"
 ```
 
 ## Usage
